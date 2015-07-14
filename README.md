@@ -1,15 +1,17 @@
 # README
 
-## Overview
-React was used to structure the application as a single page web application. 
- jQuery was used for request and input processing.
-
 ## Usage
 ```
 $ npm install
 $ gulp build
 $ open build/index.html
 ```
+
+## Overview
+React was used to structure the application as a single page web application. 
+ jQuery was used for request and input processing.
+
+## React Components
 
 ### Header
  - where searching is done, using form
