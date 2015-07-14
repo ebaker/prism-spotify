@@ -1,14 +1,14 @@
 # README
 
 ## Overview
-React was used to structure the application as a SWA. jQuery was used in some places
- for simplicity.
+React was used to structure the application as a single page web application. 
+ jQuery was used for request and input processing.
 
 ## Usage
 ```
-npm install
-gulp build
-open build/index.html
+$ npm install
+$ gulp build
+$ open build/index.html
 ```
 
 ### Header
@@ -23,9 +23,9 @@ open build/index.html
 
 ## Improvements
  - remove uneeded gulp processes from boilerplate
- - search could be left alone when hitting back button
+ - search could still be there after hitting back button from artist top tracks
  - paging through search term data
- - url routing to be designed
+ - url routing as mentioned in requirements
 
 ## Spotify API Request Examples
 
