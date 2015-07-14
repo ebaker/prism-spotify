@@ -1,5 +1,23 @@
 # README
 
+## Overview
+React was used to structure the application as a SWA. jQuery was used in some places
+ for simplicity.
+
+### Header
+ - where searching is done, using form
+
+### List
+ - list from spotify matching artist query from header submit
+
+### Artist
+ - details on artist clicked from list
+ - contains back button to search again
+
+## Improvements
+ - search could be left alone when hitting back button
+ - paging through search term data
+ - url routing to be designed
 
 ## Spotify API Request Examples
 
